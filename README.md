@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vashistpatel-dev
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C#, and more...
+- 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on any begineer projects.
 - 📫 How to reach me https://www.linkedin.com/in/vashistpatel/
 - ⚡ Fun fact: I like basketball 🏀
